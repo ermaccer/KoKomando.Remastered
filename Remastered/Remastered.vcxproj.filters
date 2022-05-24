@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="code\kokomando\Kernel.cpp">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClCompile>
+    <ClCompile Include="code\kokomando\Sprite.cpp">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\plugin\eCustomDialogBox.cpp">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="code\plugin\ePatches.cpp">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="code\plugin\kokomando.cpp">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="code\kokomando\Object.cpp">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClCompile>
+    <ClCompile Include="code\kokomando\Player.cpp">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClCompile>
+    <ClCompile Include="code\plugin\eSettingsManager.cpp">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="IniReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="code\kokomando\core.h">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClInclude>
+    <ClInclude Include="code\kokomando\Kernel.h">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClInclude>
+    <ClInclude Include="code\kokomando\Sprite.h">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code\plugin\eCustomDialogBox.h">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClInclude>
+    <ClInclude Include="code\plugin\ePatches.h">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClInclude>
+    <ClInclude Include="code\plugin\kokomando.h">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClInclude>
+    <ClInclude Include="code\kokomando\Object.h">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClInclude>
+    <ClInclude Include="code\kokomando\Bronie.h">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClInclude>
+    <ClInclude Include="code\kokomando\Player.h">
+      <Filter>Header Files\code\kokomando</Filter>
+    </ClInclude>
+    <ClInclude Include="code\plugin\eSettingsManager.h">
+      <Filter>Header Files\code\plugin</Filter>
+    </ClInclude>
+    <ClInclude Include="IniReader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{57168925-b4dd-409e-a996-2dc5b901d9d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\code">
+      <UniqueIdentifier>{a7ed3d77-d1fe-4796-9e60-e9555ee5a17f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\code\kokomando">
+      <UniqueIdentifier>{1fea00c8-69cd-4a21-8be3-37ae02abb46a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{d35ee43d-b52d-49dd-9420-226a11cbd3da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\code\plugin">
+      <UniqueIdentifier>{33125f18-a0c2-4e0e-b40a-84190923e0d6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
