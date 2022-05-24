@@ -39,7 +39,7 @@ Some small patches are also done
 
 An optional download for remastered music tracks which are upped from 22khz to 44khz.
 
-[Download](https://github.com/ermaccer/KoKomando.Remastered/releases)
+[Download](https://drive.google.com/file/d/1xSFVCyBqv5WKVIm7xW0NphwgH2Z5AM_3/view?usp=sharing)
 
 Simply replace the data folder in the root folder to install.
 
