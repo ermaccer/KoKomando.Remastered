@@ -1,6 +1,6 @@
 ﻿<p align="center"><img src=https://i.imgur.com/pXiaFCd.png></p>
 
-<p style="text-align: center">Support for modern resolutions, fixed HUD, some patches and extended draw distance!</p>
+<p align="center">Support for modern resolutions, fixed HUD, some patches and extended draw distance!</p>
 
 # Features
 
@@ -20,13 +20,13 @@ might break certain levels and their art direction.
 **Note: Some levels are not affected by these changes for an unknown reason. Very large draw distance values can lower the FPS!**
 
 ![](https://i.imgur.com/H1Iqpi0.jpg)
-<p style="text-align: center">Original</p>
+<p align="center">Original</p>
 
 ![](https://i.imgur.com/ZftWQ7h.jpg)
-<p style="text-align: center">1.75x</p>
+<p align="center">1.75x</p>
 
 ![](https://i.imgur.com/6PEMMeJ.jpg)
-<p style="text-align: center">50x (optional)</p>
+<p align="center">50x (optional)</p>
 
 ## 🛠️ Patches
 Some small patches are also done
