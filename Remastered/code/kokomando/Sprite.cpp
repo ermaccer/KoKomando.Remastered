@@ -2,6 +2,7 @@
 #include "..\plugin\kokomando.h"
 #include "Kernel.h"
 #include "Object.h"
+#include <iostream>
 
 void cMagSprite::SetPos(int texture, float x, float y, int unk)
 {

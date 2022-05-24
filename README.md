@@ -4,7 +4,7 @@
 
 # Features
 
-## 🖥 Modern Resolutions
+## 🖥 Modern Resolutions Support
 
 KoKomando Remastered adds support for all resolutions that are supported by your GPU. HUD is adjusted to match the original
 4:3 values and is centered.
@@ -44,6 +44,8 @@ An optional download for remastered music tracks which are upped from 22khz to 4
 Simply replace the data folder in the root folder to install.
 
 ## Download
+
+KoKomando Remastered was only tested with final Polish release!
 
 Head to [Releases](https://github.com/ermaccer/KoKomando.Remastered/releases) to download the latest binary file.
 
